@@ -12,9 +12,9 @@
 
 - 📫 How to reach me **johnkeru128@gmail.com**
 
-- 📄 Know about my experiences [dm me](dm me)
+- 📄 Know about my experiences [dm me]
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I like reading, sketching, chess, playing soccer, sepak and mostly like being alone.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
