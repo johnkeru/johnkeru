@@ -1,4 +1,4 @@
-[https://amariujala.vercel.app/6/posts/view-11-lofi-art-gif/](https://media.tenor.com/ItlVfQ5tMv0AAAAd/lofi-music-lofiartwork.gif)
+
 
 <h1 align="center">Hi 👋, I'm John Rey M. Querobin (John Keru)</h1>
 <h3 align="center">A passionate developer from Ph 🇵🇭</h3>
