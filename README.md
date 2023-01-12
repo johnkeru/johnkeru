@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [dm me]
 
-- ⚡ Fun fact **I like reading, sketching, chess, playing soccer, sepak and mostly like being alone.**
+- ⚡ Fun fact **I like reading, sketching, chess, playing soccer, sepak. I like everything I know I fit.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
