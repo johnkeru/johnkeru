@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I love reading, sketching, chess, playing soccer, sepak. I love everything I know I fit.**
 
-- ⚡⚡ Hey, your client doesn't care on you or your tools. They only care on your work.
+- ⚡⚡ Hey, Hi, your client doesn't care on you or your tools. They only care on your work.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
