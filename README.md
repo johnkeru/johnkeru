@@ -1,6 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm John Rey M. Querobin (John Keru)</h1>
+<h2 align="center">Absolute introvert here!! :></h2>
 <h3 align="center">A passionate developer from 🇵🇭</h3>
 <img align="right" alt="Coding" width=500 src="https://media.tenor.com/ItlVfQ5tMv0AAAAd/lofi-music-lofiartwork.gif"/>
 
