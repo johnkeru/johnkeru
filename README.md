@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [dm me]
 
-- ⚡ Fun fact **I love reading, sketching, chess, playing soccer, sepak. I love everything I know I fit.**
+- ⚡ Fun fact **I love reading, musics, sketching, chess, playing soccer, sepak. I love everything I know I fit.**
 
 - ⚡⚡ Hey, Hi, your client doesn't care on you or your tools. They only care on your work.
 
