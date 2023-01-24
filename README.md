@@ -1,7 +1,7 @@
 
-<img align="right" alt="Coding" width=500 src="https://media.tenor.com/ItlVfQ5tMv0AAAAd/lofi-music-lofiartwork.gif"/>
+<img alt="Coding" width="100%" src="https://media.tenor.com/ItlVfQ5tMv0AAAAd/lofi-music-lofiartwork.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=johnkeru&label=Profile%20views&color=0e75b6&style=flat" alt="johnkeru" /> </p>
+<h1> <img src="https://komarev.com/ghpvc/?username=johnkeru&label=Profile%20views&color=0e75b6&style=flat" alt="johnkeru" /> </h1>
 
 - 🌱 I’m currently learning **html**
 
