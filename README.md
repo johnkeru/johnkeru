@@ -1,8 +1,4 @@
 
-
-<h1 align="center">Hi 👋, I'm John Rey M. Querobin (John Keru)</h1>
-<h2 align="center">Absolute introvert here!! :></h2>
-<h3 align="center">A passionate developer from 🇵🇭</h3>
 <img align="right" alt="Coding" width=500 src="https://media.tenor.com/ItlVfQ5tMv0AAAAd/lofi-music-lofiartwork.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnkeru&label=Profile%20views&color=0e75b6&style=flat" alt="johnkeru" /> </p>
@@ -15,7 +11,7 @@
 
 - 📄 Know about my experiences [dm me]
 
-- ⚡ Fun fact **I love reading, musics, sketching, chess, playing soccer, sepak. I love everything I know I fit.**
+- ⚡ Fun fact **I love reading, musics, sketching and football.**
 
 - ⚡⚡ Hey, Hi, your client doesn't care on you or your tools. They only care on your work.
 
@@ -27,8 +23,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="100" height="100"/> </a>
+  <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="100" height="100"/> </a>
 </p>
 
 
