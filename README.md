@@ -3,17 +3,7 @@
 
 <h1> <img src="https://komarev.com/ghpvc/?username=johnkeru&label=Profile%20views&color=0e75b6&style=flat" alt="johnkeru" /> </h1>
 
-- 🌱 I’m currently learning **html**
-
-- 💬 Ask me about **rest api**
-
 - 📫 How to reach me **johnkeru128@gmail.com**
-
-- 📄 Know about my experiences [dm me]
-
-- ⚡ Fun fact **I love reading, musics, sketching and football.**
-
-- ⚡⚡ Hey, Hi, your client doesn't care on you or your tools. They only care on your work.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
