@@ -6,7 +6,6 @@
 - 📫 **johnkeru128@gmail.com**
 
 <p align="left">
-<a href="https://twitter.com/johnkeru_22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="johnkeru_22" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
