@@ -37,7 +37,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="100" height="100" />
     </a>
     <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chakraui/chakraui-original.svg" alt="chakra ui" width="100" height="100" />
+      <img src="https://img.icons8.com/?size=512&id=hhZfccTvdhiR&format=png" alt="chakra ui" width="100" height="100" />
     </a>
     <a href="https://mui.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="material ui" width="100" height="100" />
