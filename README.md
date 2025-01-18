@@ -15,6 +15,27 @@
     <a href="https://graphql.org" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="100" height="100" />
     </a>
+    <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="100" height="100" />
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="100" height="100" />
+    </a>
+    <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="100" height="100" />
+    </a>
+    <a href="https://html.spec.whatwg.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="100" height="100" />
+    </a>
+    <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="100" height="100" />
+    </a>
+    <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chakraui/chakraui-original.svg" alt="chakra ui" width="100" height="100" />
+    </a>
+    <a href="https://mui.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="material ui" width="100" height="100" />
+    </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="100" height="100" />
     </a>
@@ -63,7 +84,7 @@
   </p>
 </p>
 
-<h3 align="left">My twitter:</h3>
+<h3 align="left">My twitter account:</h3>
 <p align="left">
   <a href="https://x.com/johnkeru_22" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" width="50" height="50" />
