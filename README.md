@@ -91,15 +91,12 @@
     <a href="https://cloudinary.com/" target="_blank" rel="noreferrer">
       <img src="https://static-00.iconduck.com/assets.00/cloudinary-icon-512x335-z2n5aue3.png" alt="cloudinary" width="100" height="100" />
     </a>
-
-
     <a href="https://www.prisma.io" target="_blank" rel="noreferrer">
       <img src="https://cdn.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_.png" alt="prisma" width="100" height="100" />
     </a>
     <a href="https://typeorm.io" target="_blank" rel="noreferrer">
       <img src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" alt="typeorm" width="100" height="100" />
     </a>
-    
     <a href="https://www.apollographql.com/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/apollographql/apollographql-icon.svg" alt="apollo graphql" width="100" height="100" />
     </a>
