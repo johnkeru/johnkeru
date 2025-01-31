@@ -89,7 +89,7 @@
     </a>
     <!-- Added Technologies -->
     <a href="https://cloudinary.com/" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Cloudinary_Logo_2019.png" alt="cloudinary" width="100" height="100" />
+      <img src="https://static-00.iconduck.com/assets.00/cloudinary-icon-512x335-z2n5aue3.png" alt="cloudinary" width="100" height="100" />
     </a>
     <a href="https://www.apollographql.com/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/apollographql/apollographql-icon.svg" alt="apollo graphql" width="100" height="100" />
@@ -101,7 +101,7 @@
       <img src="https://static-00.iconduck.com/assets.00/nextjs-icon-1024x1024-5et230l7.png" alt="nextjs" width="100" height="100" />
     </a>
     <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-      <img src="https://nestjs.com/img/logo_text.svg" alt="nestjs" width="100" height="100" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" alt="nestjs" width="100" height="100" />
     </a>
   </p>
 </p>
