@@ -87,21 +87,17 @@
     <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" width="100" height="100" />
     </a>
-    <!-- Added Technologies -->
     <a href="https://cloudinary.com/" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Cloudinary_Logo_2019.png" alt="cloudinary" width="100" height="100" />
-    </a>
-    <a href="https://www.apollographql.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/apollographql/apollographql-icon.svg" alt="apollo graphql" width="100" height="100" />
-    </a>
-    <a href="https://esolangs.org/wiki/Brainfuck" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Brainfuck_logo.png" alt="brainfuck" width="100" height="100" />
-    </a>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Next.js_logo.svg" alt="nextjs" width="100" height="100" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Cloudinary_Logo.png" alt="cloudinary" width="100" height="100" />
     </a>
     <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-      <img src="https://nestjs.com/img/logo_text.svg" alt="nestjs" width="100" height="100" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/NestJS_Logo.svg" alt="nestjs" width="100" height="100" />
+    </a>
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Next.js_Logo.svg" alt="nextjs" width="100" height="100" />
+    </a>
+    <a href="https://www.codewars.com/" target="_blank" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Codewars_Logo.png" alt="brainfuck" width="100" height="100" />
     </a>
   </p>
 </p>
