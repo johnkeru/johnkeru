@@ -112,9 +112,3 @@
   </p>
 </p>
 
-<h3 align="left">My twitter account:</h3>
-<p align="left">
-  <a href="https://x.com/johnkeru_22" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" width="50" height="50" />
-  </a>
-</p>
